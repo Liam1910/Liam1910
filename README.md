@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Liam1910 (you can also just call me Liam)
 - 🏠 Im From Germany
 - 👀 I’m interested in: Programming and Game Dev.
-<!-- 🌱 I’m currently learning: -->
-<!-- 💞️ I’m looking to collaborate on: -->
+<!--- 🌱 I’m currently learning: --->
+<!--- 💞️ I’m looking to collaborate on: --->
 - 📫 How to reach me: liamschmallowsky123@gmail.com
 
 <!---
