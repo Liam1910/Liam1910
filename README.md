@@ -2,6 +2,7 @@
 - 🏠 Im From Germany
 - 👀 I’m interested in: Programming and Game Dev.
 - 📫 How to reach me: liamschmallowsky123@gmail.com
+<!--- 7 💫 Something Special about me: Im Gay 🏳️‍🌈 --->
 
 <!--- 4 🌱 I’m currently learning: --->
 <!--- 5 💞️ I’m looking to collaborate on: --->
